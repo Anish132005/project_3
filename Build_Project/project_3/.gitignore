@@ -1,0 +1,5 @@
+# Ignore socket files
+*.sock
+
+# Ignore temporary files and folders
+RemoteSystemsTempFiles/
